@@ -1,0 +1,12 @@
+{
+  "name": "ashop",
+  "version": "1.0.0",
+  "description": "react web shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dmitry Shestak",
+  "license": "ISC"
+}
